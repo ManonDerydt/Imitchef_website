@@ -1,4 +1,3 @@
-/*********************************Home ---- section**********************************/
 /*DESKTOP*/
 @media screen and (min-width: 768px) and (max-width: 1920px)  {
   .img-nav {
@@ -1534,95 +1533,95 @@
 }
 
 .img-casserole{
-margin-left: 10%;
-width: 15%;
-object-fit: contain;
+  margin-left: 10%;
+  width: 15%;
+  object-fit: contain;
 }
 
 .btn-imitchef{
-color: #FF8D8D;
-padding: 1%;
-width: 14%;
-border-radius: 70px;
-background-color: white;
-border: white;
-margin-left: 10%;
-margin-top: 5%;
-font-size: 18px;
-height: 75px;
+  color: #FF8D8D;
+  padding: 1%;
+  width: 14%;
+  border-radius: 70px;
+  background-color: white;
+  border: white;
+  margin-left: 10%;
+  margin-top: 5%;
+  font-size: 18px;
+  height: 75px;
 }
 
 .btn-imitchef:hover{
-background-color: #FF6859;
-color: white;
+  background-color: #FF6859;
+  color: white;
 }
 
 #step{
-margin-top: 10%;
+  margin-top: 10%;
 }
 
 
 .logo_nav{
-width: 10%;
-align-items: flex-end;
+  width: 10%;
+  align-items: flex-end;
 }
 
 .show{
-width: 45%;
+  width: 45%;
 }
 
 .m6{
-width: 50%;
+  width: 50%;
 }
 
 .netflix{
-width: 60%;
+  width: 60%;
 }
 
 .tf1{
-width: 45%;
-padding-top: 8%;
+  width: 45%;
+  padding-top: 8%;
 }
 
 .amazon{
-margin-top: -80px;
+  margin-top: -80px;
 }
 
 .food-network{
-width: 25%;
+  width: 25%;
 }
 
 .amazon-show{
-width: 30%;
+  width: 30%;
 }
 
 .all-shows{
-margin-left: 15%;
+  margin-left: 15%;
 }
 
 .text-partners{
-padding-top: 3%;
-color: white;
-width: 80%;
-margin: 0 auto;
-font-size: 30px;
-padding-bottom: 3%;
+  padding-top: 3%;
+  color: white;
+  width: 80%;
+  margin: 0 auto;
+  font-size: 30px;
+  padding-bottom: 3%;
 }
 
 .second-phone-img{
-border: solid white 6px;
-border-radius: 30px;
-width: 20%;
-margin-top: 10%;
-box-shadow: 6px 6px 6px lightgrey;
+  border: solid white 6px;
+  border-radius: 30px;
+  width: 20%;
+  margin-top: 10%;
+  box-shadow: 6px 6px 6px lightgrey;
 }
 
 .partners{
-background-color: #FF8D8D;
-height: 320px;
-width: 80%;
-margin: 0 auto;
-border-radius: 40px;
+  background-color: #FF8D8D;
+  height: 320px;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 40px;
 }
 
 .main-menu{
