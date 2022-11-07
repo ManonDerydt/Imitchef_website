@@ -108,7 +108,7 @@
 /*MOBILE*/
 @media screen and (max-width: 768px){
   .img-nav {
-    width: 50%;
+    width: 45px;
   }
 
   .content-nav{
@@ -134,14 +134,13 @@
   }
 
   .btn-unload{
-    padding: 20px;
-    width: 50%;
+    width: 45%;
     border-radius: 45px;
     margin-top: 2%;
     background-color: #FF8D8D;
     color: white;
     border: 0px white solid;
-    font-size: 20px;
+    height: 65px;
   }
 
   .arrow{
@@ -454,7 +453,8 @@
 @media screen and (max-width: 768px) {
   .img-back-arrow {
     width: 60px;
-    margin-top: 25%;
+    margin-top: 10%;
+    margin-bottom: 10%;
   }
 }
 /*TABLETTE*/
@@ -669,7 +669,7 @@
 @media screen and (max-width: 768px) {
   .title-step{
     font-size: 35px;
-    margin-top: 20%;
+    margin-top: 15%;
     font-family: 'Abril Fatface', cursive;
     color: #444444;
     line-height: 70px;
@@ -683,6 +683,7 @@
     text-align: center;
     margin: 0 auto;
     margin-bottom: 10%;
+    color: #444;
   }
 
   .img-tournée{
@@ -741,6 +742,22 @@
 
 /*MOBILE*/
 @media screen and (max-width: 768px) {
+  #download {
+    margin-top: 20%;
+    margin-bottom: 20%;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  .title-download{
+    font-size: 35px;
+    font-family: 'Abril Fatface', cursive;
+    color: #444444;
+    line-height: 70px;
+    text-align: center;
+    margin-bottom: 10%;
+  }
+
   .btn-download {
     padding: 20px;
     width: 50%;
@@ -753,6 +770,13 @@
     height: 70px;
     text-align: center;
     margin-bottom: 5%;
+  }
+
+  .menu-footer-mobile{
+    font-size: 18px;
+    list-style-type: none;
+    padding-left: inherit;
+    margin-bottom: 10%;
   }
 }
 
@@ -790,12 +814,15 @@
   #footer-mobile{
     width: 100%;
     background-color: #444;
-    height: 800px;
+    height: 1045px;
+
   }
 
   .logo_footer-mobile{
-    width: 75%;
+    width: 100px;
     margin-top: 15%;
+    margin-right: 3%;
+    margin-left: 10%;
   }
 
   .logo-imitchef{
@@ -804,9 +831,14 @@
   }
 
   .logo-name-mobile{
-    width: 80px;
+    width: 125px;
     object-fit: contain;
     align-self: end;
+  }
+
+  .content-social-media{
+    justify-content: space-between;
+    width: 50%;
   }
 
 
@@ -876,6 +908,10 @@
 
 .width-50{
   width: 50px;
+}
+
+.width-50-poucent{
+  width: 50%;
 }
 
 .width-40{
@@ -2236,4 +2272,10 @@ a{color:#336699;}
 
 .link-email:hover{
   color: white;
+}
+
+.legal-mention-block-mobile{
+  margin-left: 10%;
+  margin-top: 10%;
+  font-size: 18px;
 }
