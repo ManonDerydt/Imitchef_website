@@ -743,7 +743,6 @@
 /*MOBILE*/
 @media screen and (max-width: 768px) {
   #download {
-    margin-top: 20%;
     margin-bottom: 20%;
     font-size: 20px;
     padding: 20px;
@@ -955,6 +954,10 @@
 
   .m-t-5{
     margin-top: 5%;
+  }
+
+  .m-t-15-mobile{
+    margin-top: 15%;
   }
 }
 
@@ -2255,6 +2258,15 @@ a{color:#336699;}
   object-fit: contain;
   align-self: baseline;
   margin-top: 5%;
+}
+
+.yellow-spash-download-mobile{
+  object-fit: contain;
+  align-self: baseline;
+  margin-top: 10%;
+  margin-left: 70%;
+  width: 65px;
+  margin-bottom: -5%;
 }
 
 .link-email::before {
