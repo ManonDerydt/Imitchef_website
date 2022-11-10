@@ -934,6 +934,9 @@
   margin-top: 50%;
 }
 
+.m-l-25{
+  margin-left: 25%;
+}
 .m-t-10{
   margin-top: 10%;
 }
@@ -942,6 +945,18 @@
   margin-top: 15%;
 }
 
+
+
+
+@media screen and (max-width :768px) {
+  .text-start-mobile {
+    text-align: start;
+  }
+
+  .m-t-5{
+    margin-top: 5%;
+  }
+}
 
 
 /******************************************* Slide ******************************/
@@ -1197,7 +1212,6 @@
   .text-mobile-nav{
     font-size: 15px;
   }
-
 
   .menu-mobile{
     background-color: white !important;
@@ -2278,4 +2292,11 @@ a{color:#336699;}
   margin-left: 10%;
   margin-top: 10%;
   font-size: 18px;
+}
+
+.icon-mobile{
+  width: 50px;
+  margin-left: 5%;
+  margin-top: -10%;
+  object-fit: contain;
 }
